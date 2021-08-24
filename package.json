@@ -1,0 +1,32 @@
+{
+  "name": "@altipla/filters",
+  "version": "0.0.0",
+  "description": "Common filters and utility functions for our frontends.",
+  "main": "./src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altipla-consulting/filters.git"
+  },
+  "author": "Altipla Consulting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altipla-consulting/filters/issues"
+  },
+  "homepage": "https://github.com/altipla-consulting/filters#readme",
+  "files": [
+    "src/index.js"
+  ],
+  "scripts": {
+    "lint": "eslint --ext .js src",
+    "fix": "eslint --fix --ext .js src"
+  },
+  "dependencies": {
+    "date-fns": "^2.23.0"
+  },
+  "devDependencies": {
+    "@altipla/eslint-config-vue": "^0.2.4",
+    "ava": "^3.15.0",
+    "eslint": "^7.27.0"
+  }
+}
