@@ -1,6 +1,6 @@
 {
   "name": "@altipla/filters",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Common filters and utility functions for our frontends.",
   "main": "./src/index.js",
   "type": "module",
