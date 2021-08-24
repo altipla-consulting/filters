@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/altipla-consulting/filters#readme",
   "files": [
-    "src/index.js"
+    "src/index.js",
+    "src/dates.js"
   ],
   "scripts": {
     "lint": "eslint --ext .js src",
