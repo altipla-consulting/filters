@@ -1,5 +1,5 @@
 
-import { parseTimestamp, parseDate, formatDate, serializeDate } from './dates'
+import { parseTimestamp, parseDate, formatDate, serializeDate } from './dates.js'
 
 
 export {
